@@ -17,7 +17,7 @@ except:
 
 for times in range(1,len(num)):
     for n in range(1,len(num)-times+1):
-        if num[n]>num[n-1]:
+        if num[n]<num[n-1]:
             num[n],num[n-1]=num[n-1],num[n]
     print(num)
 print(num)
