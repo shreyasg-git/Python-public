@@ -7,6 +7,7 @@ Sample :-
 input - [10,0,-1,20,25,30]
 Required Sum - 45
 output - [20,25]'''
+#hii
 def find_match(x,lis):
     n=lis.index(x)
     for m in range(n+1,len(lis)):
