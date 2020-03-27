@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Python Atom" />
     <orderEntry type="module" module-name="PycharmProjects" />
+    <orderEntry type="module" module-name="python" />
   </component>
 </module>
