@@ -4,8 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Python Atom" />
-    <orderEntry type="module" module-name="PycharmProjects" />
-    <orderEntry type="module" module-name="python" />
   </component>
 </module>
