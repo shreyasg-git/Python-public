@@ -51,6 +51,8 @@ for x in range(1, len(direction)):
         j -= 1
     elif direction[x] == 'U':
         i -= 1
-for i in range(n):  # just to print
-    print(arr1[i])
+for i in range(n):
+    for j in range(n):  # just to print
+        print(arr1[i][j], end=' ')
+    print('')
 print('-------')
