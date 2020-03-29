@@ -41,7 +41,8 @@ i = 0
 j = 0
 
 for x in range(1, len(direction)):
-    arr1[i][j] = x
+    m = len(str(n**2))
+    arr1[i][j] = str(x).zfill(m)
     if direction[x] == 'R':
         j += 1
     elif direction[x] == 'D':
